@@ -1,0 +1,23 @@
+{
+  "persons": [
+    {
+      "id": 2948,
+      "code": "A03259",
+      "name": "Jill",
+      "age": 20
+    }
+  ],
+  "health-insurance": [
+    {
+      "id": "A03259",
+      "isInsured": true,
+      "insuredTill": "01/31/2017"
+    }
+  ],
+  "tax-debt": [
+    {
+      "id": "A03259",
+      "debt": 100
+    }
+  ]
+}

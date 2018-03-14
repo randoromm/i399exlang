@@ -1,0 +1,11 @@
+{
+  "name": "i399exlang",
+  "version": "1.0.0",
+  "devDependencies": {
+    "json-server": "0.9.5",
+    "request": "^2.81.0"
+  },
+  "scripts": {
+    "start": "json-server data/db.json --static ./ --routes data/routes.json"
+  }
+}
